@@ -22,8 +22,8 @@ There is no score or claim that completing the sample proves an organisation sec
 
 ## Download and try it
 
-1. Download this repository using **Code → Download ZIP**, then unzip it. If you
-   already have this folder locally, start with the next step.
+1. [Download the free three-minute exercise](https://github.com/Imperol/invoice-fraud-tabletop-sample/releases/download/v1.0.0/invoice-fraud-demo.zip),
+   then unzip it. If you already have the sample folder locally, start with the next step.
 2. Open [index.html](index.html) in a browser with JavaScript enabled. No server,
    installation, account, API key or internet connection is needed to run it.
 3. Enter fictional notes, or choose **Fill an illustrative example**. Review the
